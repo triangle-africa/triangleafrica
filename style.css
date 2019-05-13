@@ -63,6 +63,9 @@
     padding-top: 110%;
   }
 
+  #perks p{
+      text-align: justify;
+  }
   #perks h5{
     text-align: center;
   }
@@ -77,7 +80,7 @@
     margin-bottom: 1rem;
   }
   #footer .footer-img{
-    padding-left: 20%;
+    margin-left: 21%;
   }
 
 }
@@ -113,7 +116,7 @@
     height: 150px !important;
   }
   #footer .footer-img{
-    padding-left: 30%;
+    margin-left: 36%;
   }
 
 }
@@ -169,7 +172,7 @@
     height: 125px;
   }
   #footer .footer-img{
-    padding-left: 40%;
+    margin-left: 40%;
   }
 
 }
