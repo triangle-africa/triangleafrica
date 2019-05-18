@@ -43,7 +43,7 @@
   .pad{
     padding-top: 80px !important;
   }
-  #header button{
+  #header .btn{
     width: 100%;
     background: #492F86;
     border-radius: 10px;
@@ -80,7 +80,7 @@
     margin-bottom: 1rem;
   }
   #footer .footer-img{
-    margin-left: 21%;
+    margin-left: 22%;
   }
 
 }
@@ -92,7 +92,7 @@
     width: 352px;
     padding-top: 165px;
   }
-  #header button{
+  #header .btn{
     width: 100%;
     background: #492F86;
     border-radius: 10px;
@@ -124,7 +124,7 @@
 
 /* Large devices (desktops) */
 @media (min-width:992px) {
-  #header button{
+  #header .btn{
     width: 72% !important;
     border-radius: 10px;
   }
@@ -172,7 +172,7 @@
     height: 125px;
   }
   #footer .footer-img{
-    margin-left: 40%;
+    margin-left: 41%;
   }
 
 }
